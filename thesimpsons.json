@@ -1,0 +1,30 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.series",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"thesimpsons1",
+         "name":"The Simpsons 1",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"thesimpsons2",
+         "name":"The Simpsons 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"thesimpsons3",
+         "name":"The Simpsons 3",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"thesimpsons4",
+         "name":"The Simpsons 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      }
+   ]
+}
