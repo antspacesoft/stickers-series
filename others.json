@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"elite1",
+         "name":"Elite 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"elite2",
+         "name":"Elite 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"elite3",
+         "name":"Elite 3",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"elite4",
+         "name":"Elite 4",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"cobrakai1",
          "name":"Cobra Kai 1",
          "animated_sticker_pack":true,
