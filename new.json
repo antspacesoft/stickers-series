@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"visavis1",
+         "name":"Vis a Vis 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"visavis2",
+         "name":"Vis a Vis 2",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"elite1",
          "name":"Elite 1",
          "animated_sticker_pack":true,
