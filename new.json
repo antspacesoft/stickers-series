@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cobrakai1",
+         "name":"Cobra Kai 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai2",
+         "name":"Cobra Kai 2",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai3",
+         "name":"Cobra Kai 3",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cobrakai4",
+         "name":"Cobra Kai 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"strangerthings5",
+         "name":"Stranger Things 5",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"strangerthings6",
+         "name":"Stranger Things 6",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"strangerthings7",
+         "name":"Stranger Things 7",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
          "identifier":"peakyblinders1",
          "name":"Peaky Blinders 1",
          "animated_sticker_pack":true,
