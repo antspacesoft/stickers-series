@@ -3,6 +3,54 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"houseofthedragon1",
+         "name":"House Dragon 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vikings1",
+         "name":"Vikings 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"vikings2",
+         "name":"Vikings 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"vikings3",
+         "name":"Vikings 3",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"sexeducation1",
+         "name":"Sex Education 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"sexeducation2",
+         "name":"Sex Education 2",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"sexeducation3",
+         "name":"Sex Education 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"sexeducation4",
+         "name":"Sex Education 4",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"visavis1",
          "name":"Vis a Vis 1",
          "animated_sticker_pack":true,

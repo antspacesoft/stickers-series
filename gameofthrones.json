@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"houseofthedragon1",
+         "name":"House Dragon 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"gameofthrones1",
          "name":"Game of Thrones 1",
          "animated_sticker_pack":false,
