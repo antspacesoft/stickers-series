@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cobrakai5",
+         "name":"Cobra Kai 5",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"cobrakai6",
+         "name":"Cobra Kai 6",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"houseofthedragon2",
+         "name":"House Dragon 2",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
          "identifier":"houseofthedragon1",
          "name":"House Dragon 1",
          "animated_sticker_pack":true,
