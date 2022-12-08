@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"strangerthings8",
+         "name":"Stranger Things 8",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"strangerthings9",
+         "name":"Stranger Things 9",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"strangerthings5",
          "name":"Stranger Things 5",
          "animated_sticker_pack":true,
